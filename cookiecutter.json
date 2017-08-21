@@ -1,0 +1,11 @@
+{
+    "project_name": "Name of the training",
+    "short_description": "A short description which will be used in the README",
+    "version_nr" : "0.1",
+    "training_level" : ["All levels", "Experienced"],
+    "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "_copy_without_render": [
+        "about/glossary.rst",
+        "LICENSE"]
+}
+
