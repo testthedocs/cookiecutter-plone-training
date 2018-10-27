@@ -53,7 +53,7 @@ Contribute
 ==========
 
 - `Issue Tracker <https://github.com/ttd/cookiecutter-plone-training/issues>`_
-- `Source Code: <https://github.com/ttd/cookiecutter-plone-training/>`_
+- `Source Code <https://github.com/ttd/cookiecutter-plone-training/>`_
 
 Support
 =======
